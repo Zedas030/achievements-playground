@@ -16,3 +16,7 @@ Die eigentlichen Projekte:
 | [jarvis-hud](https://github.com/Zedas030/jarvis-hud) | deutscher Sprachassistent mit Gedächtnis-HUD und Smart-Home-Steuerung |
 | [cs2-agent-helpers](https://github.com/Zedas030/cs2-agent-helpers) | Skripte, mit denen ein KI-Agent Städte in Cities: Skylines II baut |
 | [fire-tv-debloat](https://github.com/Zedas030/fire-tv-debloat) | Fire TV per ADB von Werbung und Telemetrie befreien, umkehrbar |
+
+## Zugangsdaten und eigene Werte
+
+Keine. Das Repo enthält weder Code noch Konfiguration, nur ein Protokoll der Pull Requests.
